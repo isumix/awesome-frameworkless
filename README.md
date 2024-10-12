@@ -48,6 +48,7 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 ### Posts
 
+* [New Frontend Framework? Or Vanilla JavaScript with Two Helper Functions?](https://dev.to/isumix/new-frontend-framework-5ain)
 * [Make a simple spa without any frameworks, transpilers or routers](https://dev.to/rishavs/making-a-single-page-app-in-ye-good-olde-js-es6-3eng)
 * [Vanilla JavaScript and HTML - No frameworks. No libraries. No problem](https://dev.to/pluralsight/vanilla-javascript-and-html-no-frameworks-no-libraries-no-problem-2n99)
 * [A modern JavaScript router in 100 lines](http://krasimirtsonev.com/blog/article/A-modern-JavaScript-router-in-100-lines-history-api-pushState-hash-url) - How to create a router for a single page application
